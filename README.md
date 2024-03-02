@@ -1,12 +1,13 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Tuong Vi</h1>
 <p align="center">
-  <h3 align="center"> I'm web developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center"> 
+tôi đang là sinh viên trường UIT và đang học về ngành hệ thống thống tin
+I am a student at UIT and studying information system </h3>
 </p>
 
 
-- ✍ I'm a 
-intern web developer
+- ✍ I'm a student
 
 <br />
 
